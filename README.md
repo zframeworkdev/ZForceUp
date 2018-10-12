@@ -27,3 +27,4 @@ zframeworkdev, zframeworkdev@gmail.com
 ## License
 
 ZForceUp is available under the MIT license. See the LICENSE file for more info.
+# ZAmazingKit
